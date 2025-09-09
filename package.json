@@ -1,7 +1,8 @@
 {
-  "name": "nextjs",
-  "version": "0.1.0",
+  "name": "apexswap",
+  "version": "1.0.0",
   "private": true,
+  "description": "Advanced cryptocurrency analytics and trading platform with real-time data, advanced charting, and portfolio management.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
